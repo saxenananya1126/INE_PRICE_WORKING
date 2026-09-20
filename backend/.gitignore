@@ -1,0 +1,20 @@
+
+# dependencies
+node_modules/
+
+# secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# files the test scripts produce
+scrape-shots/
+scrape-report.json
+scrape-report.html
+price-debug-*.png
+cookie-debug.png
+
+# editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

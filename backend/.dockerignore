@@ -1,0 +1,11 @@
+node_modules
+.env
+.env.*
+!.env.example
+.git
+*.png
+scrape-shots
+scrape-report.*
+price-debug-*
+cookie-debug.png
+npm-debug.log
