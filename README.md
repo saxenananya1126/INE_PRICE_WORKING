@@ -6,7 +6,6 @@ A scraper reads the store every 2 hours, and every scrape attempt (including fai
 | | |
 |---|---|
 | **Live dashboard** | https://github.com/saxenananya1126/INE_PRICE_WORKING |
-| **Source** | https://github.com/Ananyasaxena26/INE_PRICE |
 | **Design note** | [DESIGN_NOTE.md](DESIGN_NOTE.md) |
 
 > The API runs on Render's free plan and sleeps when idle. The first request after a quiet period can take up to a minute; the dashboard shows a "waking up" message.
