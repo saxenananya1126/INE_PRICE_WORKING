@@ -5,8 +5,7 @@ A scraper reads the store every 2 hours, and every scrape attempt (including fai
 
 | | |
 |---|---|
-| **Live dashboard** | https://ine-price.vercel.app |
-| **API (Render)** | https://ine-price.onrender.com (`/api/health`) |
+| **Live dashboard** | https://github.com/saxenananya1126/INE_PRICE_WORKING |
 | **Source** | https://github.com/Ananyasaxena26/INE_PRICE |
 | **Design note** | [DESIGN_NOTE.md](DESIGN_NOTE.md) |
 
